@@ -29541,7 +29541,6 @@ ecl	351	ec75b840-420d-4512-a74a-d70f19be0085	Temple Garden
 ecl	352	895e7a6e-cd10-4a00-bfec-30e6330e193c	Bitterbloom Bearer
 ecl	366	1444f39f-042b-4bb3-8307-6b8878198086	Formidable Speaker
 ecl	372	eb1dc48d-81c4-4ecb-b5b3-d75b198f61db	Figure of Fable
-eld	A-125	24729f25-e900-4a71-a304-7346eb17990a	Fires of Invention (Alchemy)
 eld	A-81	c55cdc15-e289-49a0-94d9-d0a118ad0a2a	Cauldron Familiar (Alchemy)
 eld	1	fb6b12e7-bb93-4eb6-bad1-b256a6ccff4e	Acclaimed Contender
 eld	2	d9713032-2956-4564-b5f5-2dd16245a4e6	All That Glitters
@@ -33346,6 +33345,7 @@ fic	483	9f8b95bd-c709-4259-b3fe-92119b92acae	Birds of Paradise
 fic	484	4a2dfd72-a8f4-4e43-b5de-caf6a129a51a	Command Tower
 fic	485	aae0b3ae-ed57-4d17-8876-736aa22186cf	Command Tower
 fic	486	605b2218-0eab-4c9d-a5d8-7fab342137a0	Command Tower
+fin	A-248	f5fce9a5-85ae-408e-a260-b1e39843626e	Vivi Ornitier (Alchemy)
 fin	1	95318d85-4a08-47ac-a43d-ea83c0bea81c	Summon: Bahamut
 fin	2	d55a4c02-1aa4-454c-9041-84937377a53b	Ultima, Origin of Oblivion
 fin	3	1a67a991-1e52-4676-a2e3-2bc7aa943ab3	Adelbert Steiner
@@ -53778,7 +53778,6 @@ mic	185	e35f86a8-4941-474b-aefa-f625235933b5	Temple of Plenty
 mic	186	327ddb20-ab88-42e0-b61f-e502b3022da5	Temple of the False God
 mic	187	053ce80a-1f32-4982-8d23-d1e313e925a4	Unclaimed Territory
 mid	A-106	2fae7302-0439-4b96-88c8-4ecfae322e7b	Hobbling Zombie (Alchemy)
-mid	A-112	353c37d7-1c20-43fe-b9d9-6336856c9ef4	The Meathook Massacre (Alchemy)
 mid	A-218a	5132a045-fe39-4e45-8abd-d0c1069caee7	Devoted Grafkeeper (Alchemy)
 mid	A-218b	5132a045-fe39-4e45-8abd-d0c1069caee7	Departed Soulkeeper (Alchemy)
 mid	A-52	004c1078-0dea-4885-97b5-497f3f15c8c3	Falcon Abomination (Alchemy)
@@ -81615,9 +81614,10 @@ psom	223★	b9bdfa34-f608-40d4-b634-b260ad620f18	Wurmcoil Engine
 pspl	1	4311bea6-a65c-4c1b-9596-797cc3410eb7	Terror of the Peaks
 pspl	2	4aaac603-6c4f-46fb-85f4-d6b51c966524	Kaldra Compleat
 pspl	3	b103e9f5-fdfd-4533-a63b-1c212dc76ba7	Sword of Forge and Frontier
-pspl	5	32e03ed1-6d1e-4303-b67c-4a5a4f825e9c	Cloud, Midgar Mercenary
-pspl	6	314671b3-26c6-463e-934c-93f62e704db6	Get Lost
-pspl	7	3f1b7b3e-3449-4c8f-8eb7-aacc62d9eadd	Spectacular Spider-Man
+pspl	4	32e03ed1-6d1e-4303-b67c-4a5a4f825e9c	Cloud, Midgar Mercenary
+pspl	5	314671b3-26c6-463e-934c-93f62e704db6	Get Lost
+pspl	6	3f1b7b3e-3449-4c8f-8eb7-aacc62d9eadd	Spectacular Spider-Man
+pspl	7	f7e165f1-d016-4f6b-afcd-8711d26f055d	Day of Black Sun
 pspm	1s	c8ad9739-1f15-45ba-9d26-7080decb8f5a	Anti-Venom, Horrifying Healer
 pspm	2s	0d9ea1ad-686d-4f62-8cd8-b2f40097d2c5	Arachne, Psionic Weaver
 pspm	8s	82dc9984-ee11-4031-a60b-824f803332fc	Friendly Neighborhood
@@ -83086,6 +83086,8 @@ pw25	10	1402d294-8772-4b13-b1d0-f4205d57208b	Spider-Ham, Peter Porker
 pw25	11	a513b54a-fc86-4a8f-a427-6fe972d246a9	Mary Jane Watson
 pw25	12	2c76914f-fc3a-4cb2-b825-e92d8b801ec3	Ultimate Green Goblin
 pw25	13	1efc11ba-8fe9-45cc-9de5-bd5a577f0a87	Carnage, Crimson Chaos
+pw25	14	6fc7d4ed-9e30-4daa-997d-6916c916c5fd	Gran-Gran
+pw25	15	f6415bd7-8585-4dc5-a183-4499e54fa42f	Unlucky Cabbage Merchant
 pwar	1p	4455b2fd-3b44-4100-9573-5d2ba4507b6c	Karn, the Great Creator
 pwar	1s	a85cde02-5f6f-4c85-b0f2-46ec472fd151	Karn, the Great Creator
 pwar	1s★	753f7c1a-8310-4b66-9359-f072b353e9ee	Karn, the Great Creator
@@ -88720,6 +88722,7 @@ sld	815	3b39b884-b72c-4bf7-aee8-481c578a0b6d	Seven Dwarves
 sld	816	3e2091f9-eeef-4c60-be99-c70455e7df36	Seven Dwarves
 sld	817	fa5b50fb-949f-4333-8b3f-456e06848f26	Seven Dwarves
 sld	818	525a150f-b810-431c-bc25-8bfdbda3167a	Seven Dwarves
+sld	819	c7195bb7-cd4a-4e05-935c-8f9094c67bfa	Seven Dwarves
 sld	820	6002d99a-c7b4-4845-aca9-b55dabb62d9f	Arcane Signet
 sld	820★	3722c7e8-bba3-4db0-a157-577cf37f53b4	Arcane Signet
 sld	821	4a2a3a29-b629-45f8-bd20-68a8d5018504	Echo of Eons
@@ -90111,6 +90114,11 @@ sld	2283	7413839d-5e21-46b8-a41b-ae3cdf87c570	Satoru Umezawa
 sld	2284	fd693be5-959d-4a92-88ed-7644a72e1249	Voja, Jaws of the Conclave
 sld	2285	82471687-46fa-4ccf-a792-180db0a5dd22	Wilhelt, the Rotcleaver
 sld	2286	a636d2ae-f823-47c5-9ef6-c80d8b14f87a	Liberator, Urza's Battlethopter
+sld	2295	3acd188d-1e9f-4fec-8b88-2f64c6733682	Chain of Vapor
+sld	2296	d957d60a-6eec-49d2-950f-306c4a12f60b	Meltdown
+sld	2297	07b3c23e-92c4-4376-8108-f2cd15cf3e47	Nature's Claim
+sld	2298	387ccdf8-b3f4-4b38-af53-b979886b8ff1	Anguished Unmaking
+sld	2299	97512e73-eac4-416b-8769-ee8a32309291	Putrefy
 sld	2311	7a0edb6c-f397-401e-a0b0-6dee77d243a8	Distant Melody
 sld	2312	5f4d7eb5-5c0e-4c89-91b5-0cd200c5cb88	Explore
 sld	2313	199a94a3-41a5-4e4d-ad46-13eccca42a82	Inspiring Call
@@ -94903,92 +94911,192 @@ ths	247	b3a37f57-5d3e-488e-a909-f53bd4c2576b	Forest
 ths	248	f13b34d7-e2a6-4cbc-9d5f-b6fe05a1c701	Forest
 ths	249	7a80d346-84e3-4eaf-9635-09da472475d8	Forest
 tla	1	5e51f727-5a9b-4bc7-83a9-dbcf1c933e15	Aang's Journey
+tla	2	6c085441-e023-4032-89a0-d24ce5060ac3	Energybending
+tla	3	9090b055-3406-4fed-a8c6-3f6353a9600e	Zuko's Exile
 tla	4	245e008c-e073-443f-9592-6f628c0026ec	Aang, the Last Airbender
 tla	5	720fbd87-b1c1-4b3b-97a1-46b943b115e3	Aang's Iceberg
+tla	6	99a90d13-891c-45cc-b1d5-6080ebae5862	Airbender Ascension
 tla	8	e2bcd0a6-e94d-4a21-a334-a57459c1b8cc	Airbending Lesson
+tla	9	a9b2a843-c6fe-4d19-801e-1538e4381ab0	Appa, Loyal Sky Bison
 tla	10	829d91e9-4878-4e55-a262-ac0d55b65d4e	Appa, Steadfast Guardian
 tla	11	7292e5f2-d5a1-4e39-8f75-eba471819f04	Avatar Enthusiasts
+tla	12	4811072d-fac0-40dd-a5cf-9694d51b12cf	"Sandy Downvote"
+tla	13	88d5f8fd-d4de-4e64-9b74-e53719ffbcdc	Compassionate Healer
+tla	19	9c59f8c5-4063-4e5a-b684-fde175c4a981	Fancy Footwork
 tla	21	0613afb5-4cee-4132-8adf-404767ed8d07	Glider Kids
+tla	22	7517f2eb-a24d-49f6-82bf-08de55d3789a	Glider Staff
 tla	25	060966f9-5e56-4512-9ef3-2b216daf093c	Jeong Jeong's Deserters
+tla	27a	a60e8f23-90b2-4bc6-bd54-a95055556389	The Legend of Yangchen
+tla	27b	a60e8f23-90b2-4bc6-bd54-a95055556389	Avatar Yangchen
 tla	28	3e4a042c-f2a6-45e7-9444-acd1ca838b87	Master Piandao
 tla	29	c472ef84-a632-4ad7-853c-60588a7a4b12	Momo, Friendly Flier
+tla	30	9350bf4a-fa12-4867-b31f-1f1394d99571	Momo, Playful Pet
 tla	31	f936d64a-0db4-49c1-8a57-6d99e012a555	Path to Redemption
 tla	32	62a983b4-ac73-4949-9317-05a75a8ce164	Rabaroo Troop
 tla	33	b05cfee5-ee59-4df6-a5f6-d9ef0fa7f98a	Razor Rings
 tla	36	5c172f9b-2184-4736-9f90-74ce08596292	Southern Air Temple
+tla	37	33b97433-e16c-422e-a0ca-f6b1e98d8681	Suki, Courageous Rescuer
+tla	39	d347caf8-0c12-401f-9e33-9978cb347f89	United Front
+tla	42	4e744b6c-1c2f-451a-818a-5ee7785b5213	Water Tribe Rallier
+tla	43	43f4b10e-165b-4100-82f3-728e1b0c78ed	Yip Yip!
 tla	49	ea22d29d-3a62-4ae2-91d5-21a678be9b48	First-Time Flyer
 tla	50	1447ebce-7e48-4b21-a39c-740920538bdd	Flexible Waterbender
+tla	51	023e7ad4-6af0-4f29-a716-27a313974227	Forecasting Fortune Teller
 tla	52	4d25428d-e5a5-43c4-8544-43120ed1c4d5	Geyser Leaper
 tla	53	3938ec1f-979c-48e5-bb13-bebace006a8f	Giant Koi
+tla	54	fa434b41-e5f7-4989-865a-95db67b05cb1	Gran-Gran
+tla	55	57e0ccb0-22f0-4e4d-9a47-c4fec2c7f251	Honest Work
 tla	56	7faa3e3d-c08a-4908-85ef-1370d3f90815	Iguana Parrot
+tla	57	af5299f5-1633-4c07-ade5-fd47e29ea4aa	Invasion Submersible
 tla	58	47c25e41-f43c-4447-81b5-b9631448bd29	It'll Quench Ya!
 tla	59	e8372167-383f-4302-a8ea-b6bf495c870c	Katara, Bending Prodigy
+tla	61a	5e9a53d3-7f2f-4a9c-9516-0713da740478	The Legend of Kuruk
+tla	61b	5e9a53d3-7f2f-4a9c-9516-0713da740478	Avatar Kuruk
+tla	62	db8e88e3-0931-403f-90e7-3c22c0b61dac	Lost Days
 tla	63	91e30df5-63f7-4281-8d64-8d522d663652	Master Pakku
+tla	64	b910851e-9332-4c83-a790-d379667cabfc	The Mechanist, Aerial Artisan
+tla	65	c2c0c138-5b61-4949-8431-4a6d458ead6a	North Pole Patrol
+tla	66	ce96a826-53a0-4029-bf34-46779d133b13	Octopus Form
 tla	67	480b6279-bb34-4b3f-a639-868b52af92b9	Otter-Penguin
 tla	68	17d71522-b133-4003-b787-0c742a2fd70e	Rowdy Snowballers
+tla	69	9bb928ae-f636-4aee-9146-a7885e6a8976	Secret of Bloodbending
 tla	70	87595843-15bc-48bb-8a81-3e6ad924ed44	Serpent of the Pass
 tla	71	004be4bc-ac3c-4026-8d36-f4687ab18c70	Sokka's Haiku
+tla	72	3a1b1329-531c-47ed-9802-c505501f8fd9	The Spirit Oasis
+tla	73	0c019e76-c88e-4d1b-a546-0f4e462ef44a	Spirit Water Revival
+tla	74	66906ed4-baac-4be0-9359-34f453d1a04a	Teo, Spirited Glider
+tla	75	7aef2891-1269-4a1a-acea-0aa37ef544c4	Tiger-Seal
+tla	76	308cc687-9cb2-4e3a-98db-c5ba2a7da115	Ty Lee, Chi Blocker
+tla	77	0ecd8b38-9ee5-41a5-9b93-21c33fc1a6ff	"Slippery Eel"
+tla	78	e20da6b5-1057-4a28-9e85-07de714e262f	Wan Shi Tong, Librarian
 tla	80	4f81e3b5-a0a9-4764-8c2d-b499ce1740b4	Waterbending Lesson
 tla	82	26bcff57-428e-4f30-a153-a778fbfc437d	Watery Grasp
 tla	83	ecdac50f-c639-43fc-a03e-d488fac96ae2	Yue, the Moon Spirit
 tla	84	416b9207-a2af-44d1-9b87-4943f6e46d42	Azula Always Lies
+tla	85	1335a145-248a-4f1e-8760-9a5d531e14e3	Azula, On the Hunt
 tla	86	c2eed79f-38c1-4aac-9525-d54cb114f17f	Beetle-Headed Merchants
+tla	87	739653cc-35c8-4a66-95d8-3e80fa6114f0	Boiling Rock Rioter
 tla	88	42d83229-0555-4361-8964-4b525c825843	Buzzard-Wasp Colony
 tla	91	ec83a825-79e6-42a4-919c-3bc498ff4433	Cat-Gator
 tla	92	4692610e-d64c-438e-b5ad-0cf67fd57f1f	Corrupt Court Official
 tla	93	eca652b8-44f1-4bd9-b4bf-036eeead13aa	Dai Li Indoctrination
+tla	94	d0e24797-3e45-4c2b-b4b0-1ef44d42eaee	Day of Black Sun
+tla	95	4661daf6-d960-4278-8946-70948efaf99d	Deadly Precision
 tla	96	3b4a6804-04f5-4467-bb1c-9466a47bc55f	Epic Downfall
+tla	98	54d762f6-e131-480f-b294-10f5a63d9c98	The Fire Nation Drill
 tla	99	5daba108-277d-46c8-ac35-7610f4786813	Fire Nation Engineer
+tla	102	3a46deaa-88f7-4eec-aa99-b85073847918	Foggy Swamp Visions
 tla	103	b57c57a8-d72b-4c6c-a2db-a7ef61190f42	Heartless Act
 tla	104	4f442970-5355-4abf-8684-17daaa8e469b	Hog-Monkey
+tla	106	148bbaab-bc7b-46ab-8e18-ade69d71d847	June, Bounty Hunter
 tla	110	752ffa24-93b6-4b33-bf10-7222357ac472	Merchant of Many Hats
+tla	111	06b7675e-e665-49cb-a8d9-7092a654d464	Northern Air Temple
 tla	113	22cad680-d46a-4589-a633-b6ee9a78d61e	Ozai's Cruelty
 tla	117a	14eadf46-90c2-4376-8183-6a922a60174d	The Rise of Sozin
 tla	117b	14eadf46-90c2-4376-8183-6a922a60174d	Fire Lord Sozin
+tla	121	13c66fce-8f8e-4a98-8413-9f05aebf6e13	Tundra Tank
+tla	125	e8895479-26cb-4ee8-98ca-6d46c43f0dbd	Bumi Bash
+tla	126	50bf5c8b-f218-46b7-843c-8d8083f02fd2	The Cave of Two Lovers
+tla	129	04c85150-269e-4158-a1b9-bd11bc6b7d79	Crescent Island Temple
+tla	130	0ff7c993-ba29-43b0-9639-7c4bc0292fa2	Cunning Maneuver
 tla	131	14f2ed5a-042b-4cce-82ad-cfb4bd511d98	Deserter's Disciple
 tla	132	51352127-1f86-42e9-b4ca-2fd58b14e86b	Fated Firepower
 tla	133	9cc10845-8989-46ca-a57a-fd728fca0729	Fire Nation Attacks
+tla	134	1a3a862c-9c9a-41cd-94d1-2d0cff22a6cd	Fire Nation Cadets
 tla	136	71a9fa44-306f-417a-a9d9-991aff95025c	Fire Sages
+tla	139	3b366f59-16fe-43cb-888d-1f93ef8fd332	Firebending Student
 tla	140	23b3bf1e-ea85-47f5-8473-4d16615f68d7	How to Start a Riot
+tla	142	a9f63d3b-bee5-48bc-8b04-d8b24b0bda6e	"Flaming Hot Jazz Hands"
+tla	143	b17e8bdb-4b91-4a9d-bfe1-8a55f0bd040b	Jet's Brainwashing
+tla	144	61eaebc6-7575-48ed-b212-ff8b0c7ae694	The Last Agni Kai
+tla	145a	95f2f5af-d405-4534-8683-5a9001f997b4	The Legend of Roku
+tla	145b	95f2f5af-d405-4534-8683-5a9001f997b4	Avatar Roku
 tla	146	5787b0e0-9469-4a6d-8b81-c992628e28c0	Lightning Strike
+tla	147	732e6bc9-0798-4c00-aea0-5ef4298b45f5	Mai, Jaded Edge
 tla	148	7d40b9cb-82ef-44c5-8d3c-c8bb4ce9891c	Mongoose Lizard
+tla	149	9fbe94e9-a71d-4a31-9210-c599abe08e3f	Price of Freedom
+tla	150	6436e2d0-989f-47e3-90bc-9cde82a2ddb4	Ran and Shaw
 tla	151	2b5b14a7-1fdd-4efc-b197-cadfa7f7c860	Redirect Lightning
 tla	152	a8bc29cf-f6f8-4bb8-b722-f016b58b6d2d	Rough Rhino Cavalry
+tla	153	f22ac19f-66fb-4d54-9f09-495a20a29577	Solstice Revelations
 tla	154	649e50e5-299b-4191-87a8-36e9378795be	Sozin's Comet
+tla	156	a9394200-7ffc-440f-8b5f-c08b7930133c	Treetop Freedom Fighters
+tla	158	dcd9df24-272b-4aa1-b05f-6ee6b3d3dfe7	Ty Lee, Artful Acrobat
+tla	159	6829b20d-c2fa-41a6-89ca-f21c522d8866	War Balloon
 tla	161	99244462-a996-4a5b-91fb-947045647d6d	Yuyan Archers
 tla	163	6a73b372-9c0e-4a85-89d2-440163330687	Zuko, Exiled Prince
+tla	164	11a77897-2aba-4a9b-bbe6-1768ca9f12cb	Allies at Last
 tla	166	aabbd420-b7fc-496f-9168-bad823d51d9e	Badgermole
+tla	167	340c5799-4964-44dd-8c48-8f3f3aba5211	Badgermole Cub
+tla	170	233f4a05-057b-48f4-8f56-8d4a060a40e4	Cycle of Renewal
+tla	171	21f52564-9820-42dc-a08d-459d51afc397	Diligent Zookeeper
 tla	174	62730505-56f1-4043-a8b9-4fb7bc508b47	Earth Rumble
 tla	176	eccd63b3-3a3a-4661-9d6e-fb8152429bdb	Earthbending Lesson
 tla	179	082f4abc-c09f-42cf-977f-060875dfd411	Flopsie, Bumi's Buddy
 tla	182	9657a0c0-2c26-4331-8e62-f032265a01af	Haru, Hidden Talent
+tla	183	27c6330d-49f6-4707-b4d4-d1411fa422eb	Invasion Tactics
+tla	185	b18995c2-efe3-46ca-8204-e2dc0e42f6e3	Leaves from the Vine
+tla	187	25749f9a-260d-4bdc-bd28-429c12faa4a5	Origin of Metalbending
 tla	188	5ca3fd45-9301-44ef-afc0-4d7999d66d36	Ostrich-Horse
 tla	189	f177e9cc-0c41-417d-9215-5ff23a1a0657	Pillar Launch
 tla	190	ccd03ec3-0fae-48b2-9f04-9c57d2f94267	Raucous Audience
 tla	191	e64a4a8b-323c-4c8b-92af-1a3295799e65	Rebellious Captives
 tla	193	52fd910f-6d42-41f5-a4be-f375aa254ea2	Rocky Rebuke
 tla	194	b15f302d-c451-4e79-a5af-75ee3ba4cadf	Saber-Tooth Moose-Lion
+tla	195	a7b93c2a-c478-4734-8aca-03f3e9c11b20	Seismic Sense
+tla	197	520f5a03-ff5a-43ed-8f15-cf24596d60cd	Sparring Dummy
 tla	198	ff68fa7b-8065-407b-a8b4-bfbb14f1c99c	Toph, the Blind Bandit
+tla	199	8c55b333-dc8b-4332-895b-eec5eb45543f	True Ancestry
 tla	200	aefcd734-3916-4c77-9d98-3ea2c2795658	Turtle-Duck
+tla	201	0a838009-b115-4497-b35d-682e41ead7db	Unlucky Cabbage Merchant
+tla	203a	fea89ca0-8070-4f28-9851-994314f9d248	Aang, at the Crossroads
+tla	203b	fea89ca0-8070-4f28-9851-994314f9d248	Aang, Destined Savior
+tla	204a	82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4	Aang, Swift Savior
+tla	204b	82866a0e-485a-4f7e-8c49-f7d9ff3f4ad4	Aang and La, Ocean's Fury
 tla	205	74ca45a4-97ab-4255-9129-884e8b42b984	Abandon Attachments
 tla	207a	fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8	Avatar Aang
 tla	207b	fe29e909-50e9-4f04-b1a3-2cc5d7e3efe8	Aang, Master of Elements
+tla	208	daf30e1c-436d-4f23-b1d2-570619a4b7f5	Azula, Cunning Usurper
+tla	211	b20a5185-7e31-4fc9-be11-9423bfc389bf	Bumi, Unleashed
 tla	212	d7df3391-dbe5-4eb4-85c1-037c5f3ea971	Cat-Owl
+tla	214	9ddb8715-341b-400a-b6eb-f3f90518157c	Dai Li Agents
+tla	215	16be5cc4-b15a-4c5e-8a6e-05c87b519127	Dragonfly Swarm
 tla	216	2d543d35-945a-4ffa-beb7-7c5d4f894f79	Earth Kingdom Soldier
+tla	217	4533d155-5c56-41a5-9d76-2d1414ac47c9	Earth King's Lieutenant
+tla	218	74fca0b8-12e1-405f-b999-160d65fe0ade	Earth Rumble Wrestlers
 tla	219	56d4e0b7-232f-4953-84a3-e6f17781aa45	Earth Village Ruffians
+tla	220	bc6146bf-f0c6-4557-af6a-74c643d5fc01	Fire Lord Azula
 tla	221	e62d3bcc-7bb4-42be-90a9-caf3c1caa29d	Fire Lord Zuko
+tla	223	224a2241-0dce-4008-8d9c-86db40ec5f8b	Guru Pathik
+tla	224	6fa1197d-7b19-4d86-81e2-5c87de87757b	Hama, the Bloodbender
 tla	225	060d24e0-1567-41f1-ae8c-2d3b1834df3c	Hei Bai, Spirit of Balance
+tla	227	879b73d3-4552-4fdc-baee-c4d097ae9a4f	Iroh, Grand Lotus
+tla	229	9202c044-15e4-4218-a94d-16287ba19d69	Jet, Freedom Fighter
 tla	230	b0a18f8b-7364-4375-b2e1-e2f15978517f	Katara, the Fearless
 tla	231	9ec03308-59a2-417a-938f-bdda75080e43	Katara, Water Tribe's Hope
+tla	232	8491585c-81d0-48be-8ed0-832e42fad9c6	The Lion-Turtle
 tla	233	a3eb92fe-bc59-4472-9028-f368bd015609	Long Feng, Grand Secretariat
+tla	235	a98b1550-4609-4a2f-9371-4afe1cdc613e	Ozai, the Phoenix King
 tla	237	d1af91a5-8681-4a05-910d-96f7a819bfaa	Pretending Poxbearers
 tla	240	4a1f1472-55b4-450d-8e4d-7297130a0cf3	Sokka, Bold Boomeranger
 tla	241	1326c5db-4615-495f-8e30-376243d91352	Sokka, Lateral Strategist
+tla	242	f0fa5897-1da7-488f-bb19-1632e969c050	Sokka, Tenacious Tactician
 tla	243	3e311480-04f8-4b8f-938e-1cc6d06b9902	Suki, Kyoshi Warrior
+tla	244	e477d750-42d2-48c8-bc1f-8148d15d5f53	Sun Warriors
 tla	247	70b6670f-a9fa-4d75-b0a7-c01b5071a514	Toph, the First Metalbender
+tla	248	5c88672c-0eba-4e93-a0ec-30bbb1bb7661	Uncle Iroh
 tla	249	0f34de05-39a9-425f-a3b4-3a9d46c917ac	Vindictive Warden
+tla	251	4c7e3e2f-d7ac-4d40-ab84-cb7efe06a316	White Lotus Reinforcements
+tla	252	3fd48a57-b0bb-4177-a0f3-bd317a179cbe	Zhao, Ruthless Admiral
+tla	253	9d555cab-ec86-4f27-bca2-7d01f79c3f46	Zuko, Conflicted
 tla	254	4fd83083-3779-41f0-90a0-a00e3270e4e6	Barrels of Blasting Jelly
 tla	255	6d4a1712-d19e-4475-9614-a0b1af4da610	Bender's Waterskin
+tla	256	41ecc1de-353e-4131-b735-d2ce18c9c2d5	Fire Nation Warship
+tla	259	0ebaf0bf-7aa2-469d-bdbb-0fbf6741eede	Planetarium of Wan Shi Tong
+tla	260	df99a166-6d58-4d92-9037-2fdfbaf65629	Trusty Boomerang
+tla	262	1d70f9ec-fdc1-4219-b89b-c030d712c1fc	White Lotus Tile
+tla	278	2d39a0e1-6484-409c-ab05-5b276925a949	Secret Tunnel
+tla	281	24d1e22c-0d99-4ed5-94f0-fd055fd8e2be	White Lotus Hideout
 tla	282	4069fb4a-8ee1-41ef-ab93-39a8cc58e0e5	Plains
 tla	283	a2e22347-f0cb-4cfd-88a3-4f46a16e4946	Island
 tla	284	f0b234d8-d6bb-48ec-8a4d-d8a570a69c62	Swamp
@@ -94999,34 +95107,128 @@ tla	288	d894c61a-4062-442e-8ead-5197c3bffd00	Island
 tla	289	874f0f27-81a4-4853-aaa0-2c15e07c177e	Swamp
 tla	290	ea96ecc4-72f3-46a4-8900-6a7c5a83d4df	Mountain
 tla	291	05683891-cdd4-4401-b7d5-0ef17e79c699	Forest
+tla	292	d812b6f3-83f0-44c9-8583-eb97fd8fade8	Plains
+tla	293	dd5b22ec-847a-46bd-828e-be6059b4faec	Island
+tla	294	5c818f03-0e20-4ef4-bac7-11b2b7f41b5c	Swamp
+tla	295	488ca216-de75-4acc-9c67-fd37070d7e92	Mountain
+tla	296	7ca91ba8-c08d-4239-b9f2-d6c960466456	Forest
+tla	297	63968c25-23fc-4257-863a-ad42537130d1	Fated Firepower
+tla	298a	de89fec4-f5c8-4513-8504-ac9bafb44054	Aang, Swift Savior
+tla	298b	de89fec4-f5c8-4513-8504-ac9bafb44054	Aang and La, Ocean's Fury
+tla	299	ed94f384-ebd2-4c30-a9bb-9cf793d9a810	Fire Nation Attacks
+tla	303	5b3352fd-f100-44c2-9e63-83be172317e9	Azula, Cunning Usurper
+tla	304a	ea886239-c58f-4291-bd32-ed306ae1d6de	Aang, at the Crossroads
+tla	304b	ea886239-c58f-4291-bd32-ed306ae1d6de	Aang, Destined Savior
+tla	305	397ec95c-0af5-4ed3-93a3-39dbc7a74a7b	Katara, the Fearless
+tla	306	82822ac1-9288-4bac-8afd-83563e693731	Dai Li Agents
+tla	308a	257928ba-27ae-4a11-ae41-76dfcd626ed4	Avatar Aang
+tla	308b	257928ba-27ae-4a11-ae41-76dfcd626ed4	Aang, Master of Elements
 tla	309	673f6692-fda2-4a79-b7a7-5b02be175cd9	Sozin's Comet
+tla	311	5c5e8aa5-91d7-49d2-863a-b9db836436fd	Ozai, the Phoenix King
+tla	313	281b8979-aefc-4fe7-a130-3638cdc0b1dd	Fire Lord Azula
+tla	314	51af6d52-bda7-40be-8a83-c19916320df5	The Last Agni Kai
+tla	315	cdcf267f-53b4-406e-8522-14e3e73dffa9	Fire Lord Zuko
 tla	316	4d822fa1-70f9-4a63-841d-31c94e1e3dd4	Appa, Steadfast Guardian
 tla	317	ad9849d4-6608-43e4-8fac-1c16cfa38a9f	Momo, Friendly Flier
+tla	318	d47fd63e-ddf0-4d98-8883-9ac883c20691	Tiger-Seal
+tla	320	d4bf05c4-a924-4006-835e-42f8468ba869	Wan Shi Tong, Librarian
+tla	321	aaf7eb99-b60d-44d7-baf5-30508cc8d6b3	The Fire Nation Drill
+tla	325	b9b12da4-7c5c-4dce-932d-0683bf04df7d	Ran and Shaw
+tla	326	be16c053-99e1-4921-8530-5135c989149d	Badgermole Cub
+tla	327	5f7e8f5d-c9d6-4f25-af92-f1a6b815f0c1	Diligent Zookeeper
+tla	328	8da5dab3-4505-40d9-8d81-f653cd77e491	The Lion-Turtle
+tla	330	15efe915-5e38-4e00-b10f-28e76ab51597	White Lotus Tile
 tla	332	e4588e53-a5cf-463a-a7b6-20437aeaabee	Sozin's Comet
+tla	334	1ea7248c-e4b3-4776-8e6a-cba06da2d6cc	Fire Lord Azula
+tla	335	d11a45f5-9552-46a5-9f75-008b352c8121	Ozai, the Phoenix King
 tla	336	6cd25a10-1e4e-4f47-8a67-221df4907b26	Aang's Iceberg
+tla	337	682fabaf-bfb0-4ee8-b297-f7436c7a68f2	Secret of Bloodbending
 tla	338	b50e8e26-0f3c-4478-8827-dc3245f31d8a	Yue, the Moon Spirit
+tla	339	f8f56648-85be-417a-814b-c356df390ba0	Foggy Swamp Visions
 tla	341	13688c4d-d63f-4cef-8aae-16aec7b9effc	Fated Firepower
+tla	342	c0b0e696-3cb1-4192-a127-da1d112489b7	Firebending Student
 tla	343	2c1c0fb2-cb74-46a1-9ce4-5274feab1146	Redirect Lightning
+tla	346a	d7f35cd9-71ac-4191-8604-1a653b56c42d	Aang, at the Crossroads
+tla	346b	d7f35cd9-71ac-4191-8604-1a653b56c42d	Aang, Destined Savior
+tla	347a	077a1ad2-6317-4271-b86c-cc999776251d	Aang, Swift Savior
+tla	347b	077a1ad2-6317-4271-b86c-cc999776251d	Aang and La, Ocean's Fury
+tla	348	7143a5ba-c597-4f8b-9f39-15849e298a6f	Bumi, Unleashed
+tla	349	85af39f5-8207-4fc5-a956-1ee2799ac374	Iroh, Grand Lotus
 tla	350	50f388bf-868c-466b-9a47-2f437336bba4	Katara, the Fearless
 tla	351	95547532-c056-44a5-9d80-4f6b729b6e0c	Katara, Water Tribe's Hope
+tla	352	b9dc53c3-351e-46da-bce6-ab8c651cb4ea	Sokka, Tenacious Tactician
 tla	353	aaa3e063-472e-445a-8440-dc1910899d81	Toph, the First Metalbender
+tla	355a	f487686d-2b8a-440f-b2f3-8a07dd95ad93	The Legend of Kuruk
+tla	355b	f487686d-2b8a-440f-b2f3-8a07dd95ad93	Avatar Kuruk
 tla	356a	75fcadb9-2573-4c10-8e61-ecdf72120c53	The Rise of Sozin
 tla	356b	75fcadb9-2573-4c10-8e61-ecdf72120c53	Fire Lord Sozin
+tla	357a	4a8bdef0-c50c-4a30-81bc-507a8289a81b	The Legend of Roku
+tla	357b	4a8bdef0-c50c-4a30-81bc-507a8289a81b	Avatar Roku
+tla	359a	372afa84-9ca9-46e6-8643-e16249505c59	Aang, Swift Savior
+tla	359b	372afa84-9ca9-46e6-8643-e16249505c59	Aang and La, Ocean's Fury
 tla	360	0c457a8b-8d56-474d-b788-c058a9882fdd	Fire Lord Zuko
 tla	361	15260c74-6400-46bd-a144-9d9e107eab8a	Katara, the Fearless
 tla	362	1381ec47-55fd-47d9-aded-d21776bc06b9	Toph, the First Metalbender
 tla	363a	d0467b6f-8c7d-4fcd-99f8-d335bb736484	Avatar Aang
 tla	363b	d0467b6f-8c7d-4fcd-99f8-d335bb736484	Aang, Master of Elements
+tla	364	eb941485-d85a-4693-b797-890e38c8d056	Airbender Ascension
 tla	366	3fdb2f5f-c881-4c10-8787-d37a4ee57aa4	Hakoda, Selfless Commander
+tla	369	d638ce04-cff8-4253-95f6-4ebdcfe01309	The Mechanist, Aerial Artisan
+tla	370	eadded94-3c18-43a9-bde9-f7ec86a98cce	Spirit Water Revival
+tla	371	4d2e5f2b-993a-48b1-834e-a4fe18e119ae	Ty Lee, Chi Blocker
+tla	372	7fa397df-99c4-4ea8-9ec1-836626ddcca4	Boiling Rock Rioter
+tla	373	f42f6bd4-dc1d-4b5f-9489-2cb109a68904	Day of Black Sun
+tla	380	6a431eaf-13a0-4052-b887-ca477bb55847	Earth King's Lieutenant
+tla	381	76a39187-317f-40b6-a920-18edcb0bf6ac	Iroh, Tea Master
 tla	383	0d4788f3-ae08-4698-ac4f-c78a337981c2	Sokka, Bold Boomeranger
+tla	385	e3276b9a-6cb1-4afb-bcc0-ea5a8d8d6a44	Planetarium of Wan Shi Tong
+tla	392	51003a38-3493-4524-aed8-9681f5a89037	Secret Tunnel
+tla	393	79d1889c-4b3d-47d4-847e-4343cdaf9750	Firebending Student
+tla	394	a7b91b5f-815c-4bdc-97e4-dc7bc8ed29c0	Momo, Friendly Flier
+tle	1	1d470cfd-1964-4800-957c-f9625f2258ea	Brought Back
 tle	5	3d609e89-cbb0-4715-bfcc-d4cbf1c303f9	Release to Memory
+tle	9	6e593b9b-a584-48cd-8b92-b65c3eee0b80	Agent of Treachery
+tle	10	d820fed7-fbe8-4175-834a-33b6742481ea	Bribery
 tle	13	cb795f86-3721-4ae5-9893-49d7d9973f86	Force of Negation
+tle	16	fce23be6-787a-43bb-8bfd-c6672fad9105	Mystic Remora
+tle	17	42543a13-c83f-4f94-b3f2-73c948c2b3ac	Prosperity
+tle	19	d4296046-23bc-456c-b478-4da73836b843	Standstill
+tle	20	07ec5941-203a-4f6d-b5fa-3054050990ee	Training Grounds
+tle	24	541785d2-e9c6-4434-94b5-e84ff6845a11	Cruel Tutor
+tle	25	6ea94d38-d99a-4668-adb4-5f60724ca484	Noxious Gearhulk
+tle	26	9af44900-0afe-4409-8bad-0db4a915be92	Blasphemous Act
+tle	28	c75ee954-9a94-4be2-965d-58979a560827	Dockside Extortionist
+tle	33	6a0460f9-9097-4276-a55d-23c491c32bd5	Mirrorwing Dragon
 tle	41	5e861bb6-0841-4a84-9d65-1d45ea87e90d	The Great Henge
+tle	43	6969b172-8c86-4c2e-95a6-7b23e6f2092f	Heroic Intervention
+tle	45	e8c8a887-0e1c-48a0-9977-1f4b2e5748a6	Rites of Flourishing
+tle	48	278605d1-7e33-4949-9688-7a89571ce562	Eladamri's Call
+tle	52	ebcf9ad6-5c1c-4b12-9778-2b9338bf49aa	Rhys the Redeemed
+tle	55	e69297e4-17a1-4767-9a6a-0c0dc732d936	Sundial of the Infinite
+tle	56	09c224c7-418d-4b64-9d56-a87e4ff631ab	Dark Depths
 tle	61	d95cd0be-5a70-4402-8e53-04151d6652e1	Valakut, the Molten Pinnacle
+tle	63	8ba06a79-d3b7-4705-9c5e-becaea1dd9e3	Katara's Reversal
+tle	68	4b50fe92-e596-4949-929b-54ae25a7992c	Mai and Zuko
+tle	69	f333ea01-124f-4125-87ab-609be40e774c	Aang and Katara
+tle	70	b15acc09-dd32-4e93-a788-7c0ae965a0c8	Toph, Greatest Earthbender
+tle	71	d3b0800f-23c3-4aad-8b62-3ea3d4d5b591	Sokka and Suki
+tle	72	bfc80abe-c36e-4a96-82d5-4d4c1a793ae4	Momo's Heist
+tle	73	55724dab-93c8-4a7f-89c2-13e94820635b	Uncle's Musings
 tle	74	de7a150b-1b0d-4928-a2cc-80a4b7412350	Aang, Airbending Master
+tle	83	2fcfb238-121c-46b8-a4a9-1b45b4dbb4a0	Sokka, Swordmaster
 tle	93	2c348122-37e0-443b-861d-ccf2837ce7a3	Katara, Waterbending Master
+tle	98	777fcc21-2856-4181-8ecd-c272f9769e36	Wan Shi Tong, All-Knowing
+tle	101	c1aab711-c113-458c-848e-9369c0149d61	Azula, Ruthless Firebender
 tle	104	77e548c9-8bed-40c3-bcdd-9d97a82c885d	Fire Lord Ozai
+tle	112	b1fced2b-eba2-4e70-8f1c-6d3c973b6a8d	Avatar Roku, Firebender
+tle	115	1280d51a-f4a9-4021-b229-8d9af701318c	Fang, Roku's Companion
+tle	127	496a4fa5-b3e5-4020-b432-6d353095aa33	Zuko, Firebending Master
+tle	130	e5505044-d181-4af7-bd24-1a703e58d400	Avatar Kyoshi, Earthbender
 tle	134	2fea0356-6684-4730-9eb4-0262856bc1f9	The Cabbage Merchant
+tle	139	95a3fda4-64d6-4440-a77c-b249edca7860	Hei Bai, Forest Guardian
+tle	145	22d1b078-9175-45ab-8fbe-ed4af2abde1f	Toph, Earthbending Master
+tle	165	85d431c2-e4fa-426d-83cb-ecb782e7e87d	Fiery Confluence
+tle	167	6edb20a3-31f5-4bf9-a5e3-943d8d5a1def	Descendants' Path
 tle	210	f369827d-e4cd-4bc7-8c5e-72882eff0908	Aang, Air Nomad
 tle	211	642e1b90-c240-44fe-82b2-7522026224ae	Aang's Defense
 tle	212	e16365a2-4969-4ad5-af95-9dd2d0499f06	Aardvark Sloth
@@ -95122,6 +95324,9 @@ tle	301	51bb9dee-0246-41f7-bcc6-e402ebc2b701	Plains
 tle	302	ebb35754-99e3-47de-8df5-ee485b5a7b49	Plains
 tle	303	2f05ea5f-891e-4a66-82db-3ffb17efd002	Plains
 tle	304	3912c5c8-3b80-4e92-abc2-eb482e49e9b1	Plains
+tle	315	89ac0b50-8c64-46b0-b670-cd2321153502	Arcane Signet
+tle	316	c1f93f78-645b-4f21-a80b-5542f3328111	Sol Ring
+tle	317	aff074f2-6ad9-4c0c-88e2-fc622772d2a1	Swiftfoot Boots
 tltr	H13a	7215460e-8c06-47d0-94e5-d1832d0218af	The Ring
 tltr	H13b	7215460e-8c06-47d0-94e5-d1832d0218af	The Ring Tempts You
 tmc	1	72e637db-7112-406f-809b-0eda248488b5	Leonardo, the Balance
